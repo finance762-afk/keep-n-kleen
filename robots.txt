@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /includes/
+Disallow: /assets/js/
+
+Sitemap: https://keep-n-kleen.com/sitemap.xml
+Sitemap: https://keep-n-kleen.com/sitemap-images.xml

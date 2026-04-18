@@ -8,7 +8,7 @@ require_once $_SERVER['DOCUMENT_ROOT'] . '/includes/config.php';
 require_once $_SERVER['DOCUMENT_ROOT'] . '/includes/functions.php';
 
 $pageTitle       = 'Post-Construction Cleaning Hayes, VA | Keep N Kleen';
-$pageDescription = 'Post-construction cleaning in Hayes, VA. Keep N Kleen removes drywall dust, debris, and construction residue from new builds and renovations — leaving your space ready for occupancy. Free estimates.';
+$pageDescription = 'Post-construction cleaning in Hayes, VA. Keep N Kleen removes drywall dust, debris & construction residue from new builds and renovations. Free estimates.';
 $canonicalUrl    = $canonicalBase . '/services/post-construction-cleaning';
 $ogImage         = $clientImages[8]['url'];
 $currentPage     = 'post-construction-cleaning';

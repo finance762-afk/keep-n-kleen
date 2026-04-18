@@ -197,7 +197,7 @@
   <div class="footer-bottom container">
     <p>&copy; <?php echo date('Y'); ?> <?php echo htmlspecialchars($siteName, ENT_QUOTES, 'UTF-8'); ?>. All rights reserved.</p>
     <p class="footer-credit">
-      <a href="https://pageoneinsights.com" rel="dofollow" target="_blank" rel="noopener noreferrer">
+      <a href="https://pageoneinsights.com" rel="dofollow noopener noreferrer" target="_blank">
         Web Design &amp; Hosting by Page One Insights, LLC
       </a>
     </p>

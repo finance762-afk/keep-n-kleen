@@ -8,7 +8,7 @@ require_once $_SERVER['DOCUMENT_ROOT'] . '/includes/config.php';
 require_once $_SERVER['DOCUMENT_ROOT'] . '/includes/functions.php';
 
 $pageTitle       = 'Regular Home Cleaning Hayes, VA | Keep N Kleen';
-$pageDescription = 'Weekly, bi-weekly, and monthly home cleaning in Hayes, VA. Keep N Kleen builds recurring cleaning plans around your schedule — consistent crews, reliable results, no surprises. Free estimates.';
+$pageDescription = 'Weekly, bi-weekly & monthly home cleaning in Hayes, VA from Keep N Kleen. Same crew, same checklist — consistent results every visit. Free estimates.';
 $canonicalUrl    = $canonicalBase . '/services/regular-home-cleaning';
 $ogImage         = $clientImages[6]['url'];
 $currentPage     = 'regular-home-cleaning';

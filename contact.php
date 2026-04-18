@@ -8,7 +8,7 @@ require_once $_SERVER['DOCUMENT_ROOT'] . '/includes/config.php';
 require_once $_SERVER['DOCUMENT_ROOT'] . '/includes/functions.php';
 
 $pageTitle       = 'Contact Keep N Kleen | Free Cleaning Estimate Hayes, VA';
-$pageDescription = 'Contact Keep N Kleen for a free cleaning estimate in Hayes, VA. Reach us by phone, email, or our online form. We respond quickly and schedule within 3–5 business days.';
+$pageDescription = 'Contact Keep N Kleen for a free estimate in Hayes, VA. Phone, email, or online form — we respond within one business day. Schedule within 3–5 days.';
 $canonicalUrl    = $canonicalBase . '/contact';
 $ogImage         = $clientImages[4]['url'];
 $currentPage     = 'contact';
@@ -372,7 +372,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
 
           <!-- Honeypot spam trap -->
           <div style="display:none;" aria-hidden="true">
-            <input type="text" name="_honeypot" tabindex="-1" autocomplete="off" value="">
+            <input type="text" name="_honey" tabindex="-1" autocomplete="off" value="">
           </div>
 
           <div class="form-row">

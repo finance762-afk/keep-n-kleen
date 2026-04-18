@@ -8,7 +8,7 @@ require_once $_SERVER['DOCUMENT_ROOT'] . '/includes/config.php';
 require_once $_SERVER['DOCUMENT_ROOT'] . '/includes/functions.php';
 
 $pageTitle       = 'Cleaning Services Hayes, VA | Keep N Kleen';
-$pageDescription = 'Professional cleaning services in Hayes, VA — maid services, move-in/move-out cleaning, regular home cleaning, and post-construction cleanup. Keep N Kleen serves Virginia since 2021.';
+$pageDescription = 'Cleaning services in Hayes, VA from Keep N Kleen — maid services, move-in/out, recurring home cleaning & post-construction cleanup. Serving VA since 2021.';
 $canonicalUrl    = $canonicalBase . '/services';
 $ogImage         = $clientImages[0]['url'];
 $currentPage     = 'services';

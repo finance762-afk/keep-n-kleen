@@ -8,7 +8,7 @@ require_once $_SERVER['DOCUMENT_ROOT'] . '/includes/config.php';
 require_once $_SERVER['DOCUMENT_ROOT'] . '/includes/functions.php';
 
 $pageTitle       = 'Move-In / Move-Out Cleaning Hayes, VA | Keep N Kleen';
-$pageDescription = 'Move-in and move-out cleaning services in Hayes, VA. Keep N Kleen handles full property turnover cleaning — appliances, cabinets, baseboards — to help you recover your deposit or hand off a spotless home.';
+$pageDescription = 'Move-in & move-out cleaning in Hayes, VA. Keep N Kleen handles full property turnover — appliances, cabinets, baseboards — to help recover your deposit.';
 $canonicalUrl    = $canonicalBase . '/services/move-in-move-out-cleaning';
 $ogImage         = $clientImages[7]['url'];
 $currentPage     = 'move-in-move-out-cleaning';

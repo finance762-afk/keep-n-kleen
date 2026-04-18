@@ -187,6 +187,11 @@ $_lbSchema = [
 </script>
 <?php endif; ?>
 
+<?php if (!empty($noindex)): ?>
+<!-- noindex: confirmation/utility pages only -->
+<meta name="robots" content="noindex, nofollow">
+<?php endif; ?>
+
 <!-- Component utility styles -->
 <style>
   /* Mobile-only nav items: hidden on desktop */

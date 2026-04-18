@@ -7,8 +7,8 @@
 require_once $_SERVER['DOCUMENT_ROOT'] . '/includes/config.php';
 require_once $_SERVER['DOCUMENT_ROOT'] . '/includes/functions.php';
 
-$pageTitle       = 'Cleaning Services Near Me | Hayes, VA & Surrounding Virginia Communities';
-$pageDescription = 'Keep N Kleen provides professional cleaning services in Hayes, VA and communities across Virginia — Gloucester, Yorktown, Newport News, Williamsburg, and beyond. Up to 55 miles from Hayes.';
+$pageTitle       = 'Cleaning Services Near Me — Hayes, VA | Keep N Kleen';
+$pageDescription = 'Keep N Kleen cleans homes in Hayes, VA & communities across Virginia — Gloucester, Yorktown, Newport News, Williamsburg & Hampton. 55-mile service radius.';
 $canonicalUrl    = $canonicalBase . '/service-area';
 $ogImage         = $clientImages[5]['url'];
 $currentPage     = 'service-area';

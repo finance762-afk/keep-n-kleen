@@ -8,7 +8,7 @@ require_once $_SERVER['DOCUMENT_ROOT'] . '/includes/config.php';
 require_once $_SERVER['DOCUMENT_ROOT'] . '/includes/functions.php';
 
 $pageTitle       = 'About Keep N Kleen | Cleaning Company Hayes, VA';
-$pageDescription = 'Keep N Kleen has served Hayes, VA and Virginia communities since 2021. Learn about our story, values, and what drives our commitment to reliable, thorough cleaning for homes and businesses.';
+$pageDescription = 'Keep N Kleen has served Hayes, VA since 2021. Learn about our story, values, and commitment to reliable residential & commercial cleaning across Virginia.';
 $canonicalUrl    = $canonicalBase . '/about';
 $ogImage         = $clientImages[13]['url'];
 $currentPage     = 'about';

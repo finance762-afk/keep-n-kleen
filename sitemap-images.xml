@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://keep-n-kleen.com/</loc>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/keep-n-kleen/photos/1776458151029-1817c0-o__2_.jpg</image:loc>
+      <image:title>Keep N Kleen Professional Home Cleaning Service Hayes VA</image:title>
+      <image:caption>Keep N Kleen professional home cleaning service in Hayes, Virginia</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/keep-n-kleen/photos/1776458152242-af9z6l-o__1_.jpg</image:loc>
+      <image:title>Residential Cleaning Services Hayes Virginia</image:title>
+      <image:caption>Residential cleaning services in Hayes, Virginia by Keep N Kleen</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Maid Services -->
+  <url>
+    <loc>https://keep-n-kleen.com/services/maid-services</loc>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/keep-n-kleen/photos/1776458158722-x0jplb-o__6_.jpg</image:loc>
+      <image:title>Professional Maid Services Hayes VA</image:title>
+      <image:caption>Professional maid services in Hayes, VA — spotless results by Keep N Kleen</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Move-In / Move-Out Cleaning -->
+  <url>
+    <loc>https://keep-n-kleen.com/services/move-in-move-out-cleaning</loc>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/keep-n-kleen/photos/1776458157023-0f5ra0-o__8_.jpg</image:loc>
+      <image:title>Move-Out Cleaning Services Hayes VA</image:title>
+      <image:caption>Move-out cleaning services in Hayes, Virginia by Keep N Kleen</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Regular Home Cleaning -->
+  <url>
+    <loc>https://keep-n-kleen.com/services/regular-home-cleaning</loc>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/keep-n-kleen/photos/1776458156181-ifnkl5-o__9_.jpg</image:loc>
+      <image:title>Regular Home Cleaning Hayes VA Maintenance</image:title>
+      <image:caption>Regular home cleaning maintenance in Hayes, VA — weekly and bi-weekly plans</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Post-Construction Cleaning -->
+  <url>
+    <loc>https://keep-n-kleen.com/services/post-construction-cleaning</loc>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/keep-n-kleen/photos/1776458157843-76lanl-o__7_.jpg</image:loc>
+      <image:title>Post Construction Cleaning Hayes VA Debris Removal</image:title>
+      <image:caption>Post-construction cleaning in Hayes, VA — debris and dust removal by Keep N Kleen</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Service Area -->
+  <url>
+    <loc>https://keep-n-kleen.com/service-area</loc>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/keep-n-kleen/photos/1776458155422-wodnh4-348s__1_.jpg</image:loc>
+      <image:title>Cleaning Services Hayes Virginia Service Area</image:title>
+      <image:caption>Keep N Kleen service area — Hayes, VA and surrounding Virginia communities</image:caption>
+    </image:image>
+  </url>
+
+  <!-- About -->
+  <url>
+    <loc>https://keep-n-kleen.com/about</loc>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/keep-n-kleen/photos/1776458261392-o3ed90-yG8l1Js.png</image:loc>
+      <image:title>Keep N Kleen Cleaning Professionals Hayes VA</image:title>
+      <image:caption>Keep N Kleen cleaning professionals based in Hayes, Virginia since 2021</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/keep-n-kleen/photos/1776458260274-sqmqg0-NAVS9nD.png</image:loc>
+      <image:title>Professional Cleaning Services Hayes Virginia Team</image:title>
+      <image:caption>Professional cleaning services team in Hayes, Virginia — Keep N Kleen</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Logo -->
+  <url>
+    <loc>https://keep-n-kleen.com/</loc>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/keep-n-kleen/logo/1776457961137-kuduf3-unnamed.jpg</image:loc>
+      <image:title>Keep N Kleen Logo — Cleaning Company Hayes VA</image:title>
+      <image:caption>Keep N Kleen logo — professional cleaning company based in Hayes, Virginia</image:caption>
+    </image:image>
+  </url>
+
+</urlset>
