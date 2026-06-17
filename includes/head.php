@@ -1,4 +1,5 @@
 <?php
+require_once __DIR__ . '/site-config.php';
 /**
  * head.php — Global <head> component
  * Keep N Kleen | Page One Insights
@@ -353,5 +354,6 @@ $_lbSchema = [
   }
 </style>
 
+<?php require_once __DIR__ . '/edit-mode.php'; ?>
 </head>
 <body>
