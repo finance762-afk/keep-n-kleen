@@ -172,7 +172,7 @@ $faqs = [
 ];
 
 // ─── Forms ────────────────────────────────────────────────────
-$formAction = 'https://design.pageone.cloud/api/leads/keep-n-kleen';
+$formAction = 'https://db.pageone.cloud/functions/v1/leads/keep-n-kleen';
 $formSubject = 'Keep N Kleen — New Website Inquiry';
 
 // ─── Analytics ────────────────────────────────────────────────
